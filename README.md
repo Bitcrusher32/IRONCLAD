@@ -34,7 +34,7 @@ Failure to meet these baseline expectations introduces preventable risk. Emergen
 ## License and Statement
 **License: Creative Commons Attribution 4.0 International (CC BY 4.0)**
 
-This work may be shared, adapted, and redistributed for any purpose, including commercial use, provided appropriate credit is given to the original author. When referencing the Tri-Fusion framework in derivative works, citation of the original whitepaper is requested.
+This work may be shared, adapted, and redistributed for any purpose, including commercial use, provided appropriate credit is given to the original author. When referencing the IRONCLAD framework in derivative works, citation of the original whitepaper is requested.
 
 A copy of this license is available at: https://creativecommons.org/licenses/by/4.0/
 
