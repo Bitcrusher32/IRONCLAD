@@ -30,3 +30,12 @@ IRONCLAD does not attempt to redefine emergency communications systems. The fram
 Institutions implementing these principles can significantly improve delivery reliability, information clarity, and system survivability during emergency events.
 
 Failure to meet these baseline expectations introduces preventable risk. Emergency communications systems must be treated as systems that are expected to fail — and engineered to continue operating regardless.
+
+## License and Statement
+**License: Creative Commons Attribution 4.0 International (CC BY 4.0)**
+
+This work may be shared, adapted, and redistributed for any purpose, including commercial use, provided appropriate credit is given to the original author. When referencing the Tri-Fusion framework in derivative works, citation of the original whitepaper is requested.
+
+A copy of this license is available at: https://creativecommons.org/licenses/by/4.0/
+
+*This work is published to provide systems-level definition and reference for individuals and institutions seeking to improve current emergency alert infrastructure.*
