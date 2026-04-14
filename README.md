@@ -1,6 +1,6 @@
 # IRONCLAD
 
-## EXECUTIVE SUMMARY
+## A Resiliency-Oriented Emergency Alert System Specification.
 
 Emergency communication systems are critical life-safety infrastructure. During emergency events, these systems directly influence situational awareness, decision-making, and life-critical outcomes for those affected.
 
