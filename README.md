@@ -11,7 +11,7 @@ A recent emergency alert event at the University of Ottawa exposed several of th
 _IRONCLAD is a resiliency-oriented emergency alert system specification designed to address these systemic gaps. It defines a minimum engineering baseline for emergency communications systems, focusing on performance under degraded and adversarial conditions rather than ideal operation._
 
 
-## IRONCLAD Core Principles:
+## _IRONCLAD_ Core Principles:
 
   -  Configuration-free reachability across all affected individuals
   -  Parallel, multi-channel broadcast architecture
