@@ -8,8 +8,9 @@ Current institutional implementations frequently fail under real-world condition
 
 A recent emergency alert event at the University of Ottawa exposed several of these failure modes. Including limited alert reachability due to opt-in systems, infrastructure instability under load, and insufficient situational detail for safe decision-making. These failures contributed to confusion, reliance on unofficial information channels, and reduced adherence to official safety instructions.
 
-**IRONCLAD is a resiliency-oriented emergency alert system specification designed to address these systemic gaps. It defines a minimum engineering baseline for emergency communications systems, focusing on performance under degraded and adversarial conditions rather than ideal operation.
-**
+_IRONCLAD is a resiliency-oriented emergency alert system specification designed to address these systemic gaps. It defines a minimum engineering baseline for emergency communications systems, focusing on performance under degraded and adversarial conditions rather than ideal operation._
+
+
 ## IRONCLAD Core Principles:
 
   -  Configuration-free reachability across all affected individuals
