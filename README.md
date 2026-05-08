@@ -5,9 +5,7 @@ _A Resiliency-Oriented Emergency Alert System Specification._
 IRONCLAD is a resilient emergency-alert infrastructure concept based on a real campus incident at the University of Ottawa. It explores how universities can keep alerts clear, redundant, and accessible during network failures, social-media confusion, and high-stress public safety events.
 
 ![Status](https://img.shields.io/badge/status-whitepaper-blue)
-![Type](https://img.shields.io/badge/type-system%20design-informational)
 ![Domain](https://img.shields.io/badge/domain-emergency%20communications-red)
-![Artifact](https://img.shields.io/badge/artifact-architecture%20diagram-success)
 ![Maturity](https://img.shields.io/badge/maturity-concept%20spec-orange)
 
 ## Introduction
