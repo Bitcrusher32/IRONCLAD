@@ -1,7 +1,10 @@
 # _IRONCLAD_
+_A Resiliency-Oriented Emergency Alert System Specification._
 
-## A Resiliency-Oriented Emergency Alert System Specification.
+## Condensed Overview
+IRONCLAD is a resilient emergency-alert infrastructure concept based on a real campus incident at the University of Ottawa. It explores how universities can keep alerts clear, redundant, and accessible during network failures, social-media confusion, and high-stress public safety events.
 
+## Introduction
 Emergency communication systems are critical life-safety infrastructure. During emergency events, these systems directly influence situational awareness, decision-making, and life-critical outcomes for those affected.
 
 Current institutional implementations frequently fail under real-world conditions. These failures are not due to lack of intent, but due to systemic design assumptions that do not hold under extreme conditions. Common issues include optional system adoption, reliance on high-bandwidth infrastructure, lack of redundancy, and insufficient information clarity during active incidents.
